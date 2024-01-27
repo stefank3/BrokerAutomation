@@ -34,6 +34,7 @@ public class BrokerLandingPageTest extends BaseTest {
             brokersPage.searchBrokers(brokerName);
 
             // Verify search result
+
             brokersPage.assertBroker();
         }
     }
