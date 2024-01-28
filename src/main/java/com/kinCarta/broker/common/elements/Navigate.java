@@ -72,7 +72,7 @@ public class Navigate extends ElementBase {
     /**
      * Refresh page
      */
-    public void refresh() {
+    public static void refresh() {
         try {
             driver.navigate().refresh();
         } catch (Exception e) {

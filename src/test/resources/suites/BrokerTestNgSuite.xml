@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
-<suite name="PayWall Tests">
+<suite name="Broker Tests">
     <listeners>
         <listener class-name="com.kinCarta.broker.listeners.TestListener"/>
     </listeners>
-    <test name="InPlayer Paywall Tests">
+    <test name="Broker Assignment Tests">
         <classes>
-            <class name=""/>
+            <class name="com.kinCarta.broker.tests.BrokerLandingPageTest"/>
         </classes>
     </test>
 </suite>
