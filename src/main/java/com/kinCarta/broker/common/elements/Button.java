@@ -2,7 +2,6 @@ package com.kinCarta.broker.common.elements;
 
 import com.kinCarta.broker.common.Global;
 import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.interactions.Actions;
 
 

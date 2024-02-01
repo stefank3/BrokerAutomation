@@ -1,8 +1,5 @@
 package com.kinCarta.broker.common.driver;
 
-/**
- * @author gjore.zaharchev
- */
 class OSValidator {
 
 

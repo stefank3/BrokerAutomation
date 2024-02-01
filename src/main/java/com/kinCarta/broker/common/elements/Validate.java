@@ -2,10 +2,8 @@ package com.kinCarta.broker.common.elements;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.NoSuchElementException;
-import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 
-import java.util.List;
 
 public class Validate extends ElementBase {
     /**
